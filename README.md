@@ -26,7 +26,7 @@ Blog.AI is a **Streamlit-based AI blog generator** that utilizes **Google Gemini
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/blog-ai.git
+git clone https://github.com/Opikadash/blog-ai.git
 cd blog-ai
 ```
 
