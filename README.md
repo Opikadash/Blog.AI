@@ -15,7 +15,7 @@ Blog.AI is a **Streamlit-based AI blog generator** that utilizes **Google Gemini
 ```
 .
 ├── .venv/                  # Virtual environment (ignored in Git)
-├── generated_images/       # Folder where generated images are stored
+├── generated_images/       # Folder where generated images are stored (creates when the application script is run and images generated for the blogs are saved here)
 ├── app.py                  # Main Streamlit application script
 ├── diffusion_pytorch_model.safetensors  # Stable Diffusion model file
 ├── README.md               # Project documentation (this file)
